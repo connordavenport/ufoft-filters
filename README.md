@@ -5,7 +5,9 @@
 
 `DumpAnchors`: A convience filter to ignore anchors in a font before passing to fontmake
 
-`FeaPyFoFilter`: Recompile your features using feaPyFoFum before compiling with fontmake
+`FeaPyFoFilter`: Recompile your features using feaPyFoFum before compiling with fontmake *
+
+** You must have the `com.typesupply.feaPyFoFum.compileFeatures` key set to `True` in your font lib.
 
 
 ### Installing
