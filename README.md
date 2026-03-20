@@ -14,8 +14,20 @@
 
 The easiest way to install the filters is to clone the repo and use pip to install in edit mode.
 
+
+Installing feaPyFoFum:
+
+```
+git clone https://github.com/typesupply/feaPyFoFum.git
+
+cd feaPyFoFum
+
+pip3 install -e .
+
 ```
 
+Installing filters:
+```
 git clone https://github.com/connordavenport/ufoft-filters.git
 
 cd ufoft-filters
